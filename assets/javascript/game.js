@@ -10,7 +10,7 @@ var hangman = {
             "Loki", 
             "Thanos", 
             "Groot", 
-            "Ultorn", 
+            "Ultron", 
             "Storm", 
             "Elektra", 
             "Rouge", 
