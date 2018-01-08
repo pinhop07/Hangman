@@ -13,7 +13,7 @@ var hangman = {
             "Ultron", 
             "Storm", 
             "Elektra", 
-            "Rouge", 
+            "Rogue", 
             "Magneto", 
             "Dormammu", 
             "Cyclopse", 
