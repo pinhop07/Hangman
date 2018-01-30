@@ -1,5 +1,4 @@
 # Hangman-Game
-# Week 3 Assignment
 
 ### Overview
 
@@ -35,8 +34,6 @@ To try it out, open [Marvel Hangman](https://pinhop07.github.io/marvel-hangman/i
 9. Stylish CSS rules make a design that fits the game's theme.
 
 10. Game code is organized as an object, except for the key events to get the letter guessed.
-
-- - -
 
 ### Copyright
 
