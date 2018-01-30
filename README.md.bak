@@ -35,25 +35,6 @@ To try it out, open [Marvel Hangman](https://pinhop07.github.io/marvel-hangman/i
 
 10. Game code is organized as an object, except for the key events to get the letter guessed.
 
-### Technologies used
-
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
-* jQuery
-
-### Prerequisites
-
-```
-- Bootstrap: visit https://www.bootstrapcdn.com/ and link in html
-- jQuery: visit http://code.jquery.com/ and link in html
-```
-
-### Built With
-
-* Sublime Text - Text Editor
-
 ### Copyright
 
 Paul Pinho © 2018. All Rights Reserved.
