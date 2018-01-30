@@ -40,4 +40,4 @@ To try it out, open [Marvel Hangman](https://pinhop07.github.io/marvel-hangman/i
 
 ### Copyright
 
-Coding Boot Camp © 2016. All Rights Reserved.
+Paul Pinho © 2018. All Rights Reserved.
