@@ -4,7 +4,7 @@
 
 A simple hangman game built in JavaScript. The goal of this project to learn more about object-oriented programming and become more comfortable using jQuery to build the front end.
 
-To try it out, open [Marvel Hangman](https://pinhop07.github.io/marvel-hangman/index.html) in your browser of choice.
+To try it out, open [Marvel Hangman](https://pinhop07.github.io/marvel-hangman/) in your browser of choice.
 
 ## Hangman Game
 
